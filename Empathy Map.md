@@ -1,5 +1,7 @@
 <p align="center">
-  <u><b># Empathy Map</b></u>
+  <u>
+    <b># Empathy Map</b>
+  </u>
 
 
 Throughout analysing the perspectives from both the customer and Relationship Manager, it is evident that an ideal solution can be 
