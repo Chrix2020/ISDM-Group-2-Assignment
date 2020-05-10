@@ -1,5 +1,5 @@
 <p align="center">
-  <u><b>Empathy Map</b></u>
+  <b>Empathy Map</b>
 
 
 Throughout analysing the perspectives from both the customer and Relationship Manager, it is evident that an ideal solution can be 
@@ -7,8 +7,7 @@ addressed regarding the needs and concerns of the customers within the in-house 
 
 As a result, these problems delve into not only the satisfaction of the customers, but the personalised service quality of the 
 Relationship Managers in being employed to negotiate and be well informed and acknowledgeable of a customers selection 
-of a travel package. In addition where customers are assigned to an RM based on their profile and their managers service quality has proven
-to be an operational risk. 
+of a travel package. In addition where customers are assigned to an RM based on their profile and their managers service quality has proven to be an operational risk. 
 
 Also another problem situated with the Relationship Manager is the exerting pressure of selling and promoting each travel package, 
 emplacing difficulty for the call management center to target alternative buyers causing a disruptive amount of unresponsive call turnover 
