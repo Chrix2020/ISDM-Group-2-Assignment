@@ -1,6 +1,6 @@
 <p align="center">
   <u>
-    <b># Empathy Map</b>
+    <b>Empathy Map</b>
   </u>
 
 
