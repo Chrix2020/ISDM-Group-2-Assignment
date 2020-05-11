@@ -13,9 +13,47 @@
   </tr>
   
   <tr>
-  <td>Think & Feel
-    
-    </table>
+  <td>Think & Feel</td>
+  <td>
+    <ul>
+      <li>Relationship managers want to be able to provide the best quality service they can to customers.</li>
+      <li>Relationship managers want to be able to convince potential customers to purchase a travel package.</li>
+<li>Relationship Managers want to be able to ensure that customers are satisfied with their purchases at best.</li>
+<li>Relationship Managers do not want a customer to be kept for long turnover times when assigned. </li>
+<li>Relationship Managers ensure that customers are well informed and knowledgeable of their holiday package.</li>
+      </ul>
+  </td>
+  
+  <tr>
+  <td>See</td>
+  <td>
+    <ul>
+      <li>Relationship managers want to be able to see that customers are equipped with well informed information about the holiday service and travel package and are trustworthy.</li>
+<li>Relationship managers want to be able to see that customers are satisfied with the purchase of their selected travel package.</li>
+      <li>Relationship Managers want to see a good relationship between the customer and the company.</li>
+<li>Relationship Managers want to be able to accommodate other alternative travel options based on the current destination a customer selects including sites and accommodation.</li>
+      </ul>
+  </td>
+  
+  <tr>
+  <td>Say & Do</td>
+  <td>
+    <ul>
+      <li>Relationship Managers want to be able to discuss any concerns regarding any customer feedback on their selected travel package.</li>
+<li>Relationship Managers can provide alternative deals and discounts on other holiday packages if a customer is dissatisfied with their current one.</li>
+      </ul>
+  </td>
+  
+  <tr>
+  <td>Hear</td>
+  <td>
+    <ul>
+      <li>Relationship Managers should be able to hear about any customer complaints issued, regarding their holiday package.</li>
+<li>Relationship Managers should be eligible to hear what improvements and criticism the customers have valuable input for their current services.</li>
+<li>Relationship Managers want to value feedback from customers to improve their services and be well informed of other information regarding any travel destinations based on the customers RM Profile.</li>
+      </ul>
+  </td>
+</table>
 
 
 Relationship managers want to be able to provide the best quality service they can to customers. Relationship managers want to be able to convince potential customers to purchase a travel package. Relationship managers want to be able to convince potential customers to purchase a travel package. Relationship Managers want to be able to ensure that customers are satisfied with their purchases at best. Relationship Managers do not want a customer to be kept for long turnover times when assigned. Relationship Managers ensure that customers are well informed and knowledgeable of their holiday package.
