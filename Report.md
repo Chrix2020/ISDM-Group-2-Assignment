@@ -19,13 +19,12 @@ Through the development and implementation of an information system, a major tra
 
 
 ### Identify Stakeholders
-Due to the complexity of the travel companies operations, there are a variety of stakeholders that will micro-manage the in house call management center to vigorously accommodate customers with a variety of selection of travel packages issued by their Relationship Manager.  These are:
-Relationship Managers (RM)
-Perform sales of holiday packages alongside with other sales or discounts of other travel packages based on customer feedback.
-End-Customers (potential customers)
-Automatic Call Distributors
-Routes inbound calls to the first available customer.
-For outbound callers, System generates a targeted list of customers automatically dialling numbers for each customer to be assigned to a Relationship Manager achieving a similar skill matching score based on their RM Profile and travel package. They are issued with informative and comprehensive information of the travel destination they’ve picked.
+Due to the complexity of the travel companies operations, there are a variety of stakeholders that will micro-manage the in house call management center to consistently accommodate customers with a variety of selection of travel packages issued by their Relationship Manager.  These are:
+1. Relationship Managers (RM) who perform sales of holiday packages alongside with other sales or discounts of other travel packages based on customer feedback.
+2. End-Customers (potential customers). Customers who are interested in being offered a travel package by their call agent.
+3. Automatic Call DistributorsRoutes inbound calls to the first available customer.
+  * For outbound callers, System generates a targeted list of customers automatically dialling numbers for each customer to be assigned 
+  to a Relationship Manager achieving a similar skill matching score based on their RM Profile and travel package. They are issued with           informative and comprehensive information of the travel destination they’ve picked.
 
 
 
