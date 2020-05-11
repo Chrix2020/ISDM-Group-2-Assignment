@@ -1,5 +1,24 @@
 <p align="center">
   <b>Empathy Map</b>
+  
+ <p align="center">
+  <b>Relationship Manager Empathy Map</b>
+  
+  <p align="center">
+
+<table style="width: 100%">
+  <tr>
+    <th>Design Thinking Principle</th>
+    <th>Description</th>
+  </tr>
+  
+  <tr>
+  <td>Think & Feel
+    
+    </table>
+
+
+Relationship managers want to be able to provide the best quality service they can to customers. Relationship managers want to be able to convince potential customers to purchase a travel package. Relationship managers want to be able to convince potential customers to purchase a travel package. Relationship Managers want to be able to ensure that customers are satisfied with their purchases at best. Relationship Managers do not want a customer to be kept for long turnover times when assigned. Relationship Managers ensure that customers are well informed and knowledgeable of their holiday package.
 
 
 Throughout analysing the perspectives from both the customer and Relationship Manager, it is evident that an ideal solution can be 
