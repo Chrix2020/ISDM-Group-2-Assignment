@@ -1,5 +1,13 @@
 # **TravelMate**
-### An Inquiry into Software Development for a Call Management Centre
+### *An Inquiry into Software Development for a Call Management Centre*
+
+Ian Soriano 13191871
+
+Christofer Carboverde
+
+Nicholas Avery
+
+Justin Carlino
 
 
 ## Executive Summary
@@ -15,11 +23,7 @@ Through the development and implementation of an information system, a major tra
 
 
 ### Problem Definition
-* A major travel company wishes to improve the operation of their in-house call management centre (CMC) to service customers much more effectively and increase sales potential for holiday packages sold by Relationship Managers (RM). 
-
-* Their existing process model is currently proving to be inefficient, where their extensive list of varying holiday package offerings is exerting more pressure on making sales, having a compromise towards the quality of customer service. With limited or restrictive product knowledge of Relationship Managers in addition to this, this results in poor customer experience with lack of personalised servicing, call backlogs, long call turnovers, low customer retention and lower sales.
-
-* As such, a new information system designed specifically to automate the operation of their in-house call management centre (CMC) must be developed to provide improved call routing and dynamic call flow control, for both inbound and outbound calls, and more streamlined process that will directly match Relationship Managers to customers, based on the correlation of RM skills and customer profiles to ensure success in sales and customer service.
+[INSERT PROBLEM DEFINITION]
 
 
 ### Assumptions
