@@ -19,7 +19,7 @@
 
 
 ### Assumptions
-[INSERT ASSUMPTIONS]
+1. Their existing process model is currently proving to be inefficient, where their extensive list of varying holiday package offerings is exerting more pressure on making sales, having a compromise twoards the quality of customer service. With limited or restrictive product knowledge equipped by Relationship Managers in addition, this results in poor customer experience with lack of personalised servicing, call backlogs, long call turnovers, low customer retention and lower sales.
 
 
 ### POV Statements
