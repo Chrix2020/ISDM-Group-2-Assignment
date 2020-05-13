@@ -1,6 +1,9 @@
 <p align="center">
   <b>Empathy Map</b>
   
+Throughout the entirety of the in house call management center, it was in conlusion that both the Relationship Manager
+and Customer perspectives were perceived. As one of the major issues was the personalisation of the customer service issued by the Relationship Manager to market and sell holiday packages with discrete knowledge, deterring customers away from making a likely purchase. Alternatively, this in addition was in response for customers assigned to a relationship Manager, neglecting
+  
  <p align="center">
   <b>Relationship Manager Empathy Map</b>
   
@@ -112,12 +115,10 @@ As a result, these problems delve into not only the satisfaction of the customer
 Relationship Managers in being employed to negotiate and be well informed and acknowledgeable of a customers selection 
 of a travel package. In addition where customers are assigned to an RM based on their profile and their managers service quality has proven to be an operational risk. 
 
-Also another problem situated with the Relationship Manager is the exerting pressure of selling and promoting each travel package, 
-emplacing difficulty for the call management center to target alternative buyers causing a disruptive amount of unresponsive call turnover 
+Also another problem situated with the Relationship Manager is the exerting pressure of selling and promoting each travel package, emplacing alternative buyers to be targeted, causing the call management center with a disruption of unresponsive call turnover 
 times and bottlenecking throughout the large volume of calls issued by the customers, articulated in their complex operations of
-assigning their customers to a reliable and trustworthy RM based on their RM Profiles and Skill Score. 
+assigning their customers to a reliable and trustworthy RM based on their initial Customer Profiles and Skill Score. 
 
 Therefore, as seen in both Empathy Maps, we can see a formidible strain of concern in addressing the customers needs with the increased
-backlog of customer calls, huge turnover times and evidently service competencies of the Relationship Manager to sustain and eliminate any 
-problems regarding to their customers.
+backlog of customer calls, huge turnover times and evidently service competencies of the Relationship Manager to sustain and eliminate any problems regarding to their customers.
 
