@@ -2,7 +2,7 @@
   <b>Empathy Map</b>
   
 Throughout the entirety of the in house call management center, it was in conlusion that both the Relationship Manager
-and Customer perspectives were perceived. As one of the major issues was the personalisation of the customer service issued by the Relationship Manager to market and sell holiday packages with discrete knowledge, deterring customers away from making a likely purchase. Alternatively, this in addition was in response for customers assigned to a relationship Manager, neglecting
+and Customer perspectives were perceived. As one of the major issues was the personalisation of the customer service issued by the Relationship Manager to market and sell holiday packages with discrete knowledge, deterring customers away from making a likely purchase. Alternatively, this in addition was in response for customers assigned to a relationship Manager, with little knowledge not acommodating their pool of customers with well informed travel information, inextricably affecting the surge of sales, customer retention and the value of customer satisfaction proven as an operational risk with continious turnover times through the large volume of calls requested.
   
  <p align="center">
   <b>Relationship Manager Empathy Map</b>
