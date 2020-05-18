@@ -1,5 +1,4 @@
-<p align="center">
-  <b>Empathy Map</b>
+  ## <b>Empathy Map:</b>
   
 Throughout the entirety of the in house call management center, it was in conlusion that both the Relationship Manager
 and Customer perspectives were perceived. As one of the major issues was the personalisation of the customer service issued by the Relationship Manager to market and sell holiday packages with discrete knowledge, deterring customers away from making a likely purchase. 
