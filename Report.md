@@ -158,12 +158,9 @@ Customers interested in purcahsing a holiday package from a travel company need 
   </table>
 
 
-Throughout analysing the perspectives from both the customer and Relationship Manager, it is evident that an ideal solution can be 
-addressed regarding the needs and concerns of the customers within the in-house call management system. 
+Throughout analysing the perspectives and emotions from both the customer and Relationship Manager, it is evident that an ideal solution can be addressed regarding the needs and concerns of the customers within the in-house call management system. This is in terms of the customers concerns with the quality service and competencies of the Relationship Manager.
 
-As a result, these problems delve into not only the satisfaction of the customers, but the personalised service quality of the 
-Relationship Managers in being employed to negotiate and be well informed and acknowledgeable of a customers selection 
-of a travel package and are onboard. In addition to the service competencies of the RM which customers are assigned to has proven to be an operational risk.
+Additionally, a problem that was constrained with the Relationship Manager is the personalised service quality which are deliverable to customers in being well informed and acknowledgeable of a customers selection of a travel package. In addition to the service competencies of the RM which customers are assigned to has proven to be an operational risk that can have a possibility in detering a purchasing decision if they're not on board, impacting the overall user satisfaction, increase sales and maintain customer retention.
 
 Another problem that was situated with the Relationship Manager is the exerting pressure of selling and promoting each travel package, targeting other potential buyers with assistance to the system generating a target list for outbound callers, causing the call management center with a disruption of unresponsive call turnover times and bottlenecking throughout the large volume of calls issued by the customers. In addition compromising the overall service quality issued to the customers with no apparent system that can maximize the amount of calls serviced, record sales transactions and assign approriate customers to relative RMS based on their initial customer profiles and Skill Scores impacting the overall integrity of the system, hence putting the system into a massive deadlock.
 
