@@ -115,11 +115,9 @@ addressed regarding the needs and concerns of the customers within the in-house 
 
 As a result, these problems delve into not only the satisfaction of the customers, but the personalised service quality of the 
 Relationship Managers in being employed to negotiate and be well informed and acknowledgeable of a customers selection 
-of a travel package. In addition where customers are assigned to an RM based on their profile and their managers service quality has proven to be an operational risk. 
+of a travel package and are onboard. In addition to the service competencies of the RM which customers are assigned to has proven to be an operational risk.
 
-Also another problem situated with the Relationship Manager is the exerting pressure of selling and promoting each travel package, emplacing alternative buyers to be targeted, causing the call management center with a disruption of unresponsive call turnover 
-times and bottlenecking throughout the large volume of calls issued by the customers, articulated in their complex operations of
-assigning their customers to a reliable and trustworthy RM based on their initial Customer Profiles and Skill Score. 
+Another problem that was situated with the Relationship Manager is the exerting pressure of selling and promoting each travel package, targeting other potential buyers with assistance to the system generating a target list for outbound callers, causing the call management center with a disruption of unresponsive call turnover times and bottlenecking throughout the large volume of calls issued by the customers. In addition compromising the overall service quality issued to the customers with no apparent system that can maximize the amount of calls serviced, record sales transactions and assign approriate customers to relative RMS based on their initial customer profiles and Skill Scores impacting the overall integrity of the system.
 
 Therefore, as seen in both Empathy Maps, we can see a formidible strain of concern in addressing the customers needs with the increased
 backlog of customer calls, huge turnover times and evidently service competencies of the Relationship Manager to sustain and eliminate any problems regarding to their customers.
