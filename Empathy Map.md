@@ -1,10 +1,5 @@
   ## <b>Empathy Map:</b>
   
-Throughout the entirety of the in house call management center, it was in conlusion that both the Relationship Manager
-and Customer perspectives were perceived. As one of the major issues was the personalisation of the customer service issued by the Relationship Manager to market and sell holiday packages with discrete knowledge, deterring customers away from making a likely purchase. 
-
-Alternatively, this in addition was in response for customers assigned to a relationship Manager, with little knowledge not acommodating their pool of customers with well informed travel information, inextricably affecting the surge of sales, customer retention and the value of customer satisfaction proven as an operational risk with continious turnover times through the large volume of calls requested. Hence, no system is in place to capture or monitor any impending calls, putting the system into a massive deadlock. 
-  
  <p align="center">
   <b>Relationship Manager Empathy Map</b>
   
@@ -116,8 +111,8 @@ As a result, these problems delve into not only the satisfaction of the customer
 Relationship Managers in being employed to negotiate and be well informed and acknowledgeable of a customers selection 
 of a travel package and are onboard. In addition to the service competencies of the RM which customers are assigned to has proven to be an operational risk.
 
-Another problem that was situated with the Relationship Manager is the exerting pressure of selling and promoting each travel package, targeting other potential buyers with assistance to the system generating a target list for outbound callers, causing the call management center with a disruption of unresponsive call turnover times and bottlenecking throughout the large volume of calls issued by the customers. In addition compromising the overall service quality issued to the customers with no apparent system that can maximize the amount of calls serviced, record sales transactions and assign approriate customers to relative RMS based on their initial customer profiles and Skill Scores impacting the overall integrity of the system.
+Another problem that was situated with the Relationship Manager is the exerting pressure of selling and promoting each travel package, targeting other potential buyers with assistance to the system generating a target list for outbound callers, causing the call management center with a disruption of unresponsive call turnover times and bottlenecking throughout the large volume of calls issued by the customers. In addition compromising the overall service quality issued to the customers with no apparent system that can maximize the amount of calls serviced, record sales transactions and assign approriate customers to relative RMS based on their initial customer profiles and Skill Scores impacting the overall integrity of the system, hence putting the system into a massive deadlock.
 
-Therefore, as seen in both Empathy Maps, we can see a formidible strain of concern in addressing the customers needs with the increased
+Therefore, from both Empathy Maps, we can see a formidible strain of concern in addressing the customers needs with the increased
 backlog of customer calls, huge turnover times and evidently service competencies of the Relationship Manager to sustain and eliminate any problems regarding to their customers.
 
