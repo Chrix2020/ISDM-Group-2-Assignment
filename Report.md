@@ -205,3 +205,10 @@ backlog of customer calls, huge turnover times and evidently service competencie
 </table>
 
 
+ 
+![Customer Profiling and matching Tool](https://github.com/Chrix2020/ISDM-TUTE_4_Group_2/blob/Respo-With-Image-Folder/Images/Customer%20Tool%20Use%20Case.jpg)
+
+![RM Profiling and matching tool](https://github.com/Chrix2020/ISDM-TUTE_4_Group_2/blob/Respo-With-Image-Folder/Images/Rm%20Tool%20use%20case.jpg)
+
+
+
