@@ -167,3 +167,41 @@ Another problem that was situated with the Relationship Manager is the exerting 
 Therefore, from both Empathy Maps, we can see a formidible strain of concern in addressing the customers needs with the increased
 backlog of customer calls, huge turnover times and evidently service competencies of the Relationship Manager to sustain and eliminate any problems regarding to their customers.
 
+### User Stories and Use Cases
+
+<table style="width: 100%">
+ <tr>
+  <th>User Story</th>
+  <th>Priority (1=Highest)</th>
+ </tr>
+ <tr>
+  <td>As a <strong>customer</strong> I want to connect with a knowledgeable relationship manager so that I can get the best possible           service tailored to my travel preferences.</td>
+  <td>3</td>
+ </tr>
+ <tr>
+  <td>As a <strong>customer</strong> I want to be placed in a queue during busy times rather than having the call automatically hang up       so that I can join a call with a relationship manager as soon as possible.</td>
+  <td>7</td>
+ </tr>
+ <tr>
+  <td>As a <strong>relationship manager</strong> I want to have customers segmented into social and cultural segments according to their       postcodes and surnames so that I know how to best tailor the conversation to the customer.</td>
+  <td>2</td>
+ </tr>
+ <tr>
+  <td>As a <strong>relationship manager</strong> I want be matched with a customer that fits my knowledge and skills through the               profiler tool so that can have the highest chance of selling as many products as possible.</td>
+  <td>1</td>
+ </tr>
+ <tr>
+  <td>As a <strong>relationship manager</strong> I want to have my knowledge and skills evaluated and logged in my profile so that I can       be matched properly.</td>
+  <td>4</td>
+ </tr>
+ <tr>
+  <td>As a <strong>relationship manager</strong> I want to be able to target repeat buyers so that I am able to efficiently sell               products.</td>
+  <td>5</td>
+ </tr>
+ <tr>
+  <td>As a <strong>relationship manager</strong> I want to be able to see a customer's score of how likely they are to purchase and some       basic details so that I can more effectively convince them to purchase a product.</td>
+  <td>6</td>
+ </tr>
+</table>
+
+
