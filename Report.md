@@ -48,7 +48,7 @@ Relationship Managers within the Call Management Centre for TravelMate need a ne
 
 **Customer POV Statement**
 
-Customers interested in purcahsing a holiday package from a travel company need a fast and streamlined process that allows them to enquire available holiday package offerings that suit their travelling wishes from knowledgeable travel agents, because any slight inconvenience in the process, whether be service quality or competency of the agennt, can deter customers from making a purchasing decision.
+Customers interested in purchasing a holiday package from a travel company need a fast and streamlined process that allows them to enquire available holiday package offerings that suit their travelling wishes from knowledgeable travel agents, because any slight inconvenience in the process, whether be service quality or competency of the agennt, can deter customers from making a purchasing decision.
 
 ## **2. Design Thinking Approach with Artefacts**
 
