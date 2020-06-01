@@ -167,6 +167,10 @@ Another problem that was situated with the Relationship Manager is the exerting 
 Therefore, from both Empathy Maps, we can see a formidible strain of concern in addressing the customers needs with the increased
 backlog of customer calls, huge turnover times and evidently service competencies of the Relationship Manager to sustain and eliminate any problems regarding to their customers.
 
+### Ideation
+The new system will include a dashboard to monitor and display customer impending calls. It’s functionalities include the ability to queue calls and end a customer call. Each relationship Manager can view a customers impending call and can issue the assigned customers profile to enquire what subsequent problems they’ve encountered.
+Secondary hardware and software will also be included in order to record sales transactions and individualised customer books for relationship managers to keep customer information when requesting for enquiries.
+
 ### User Stories and Use Cases
 
 <table style="width: 100%">
