@@ -212,6 +212,9 @@ backlog of customer calls, huge turnover times and evidently service competencie
 
 ### Activity Diagrams (BPMN)
 
+#### Record Customer Information:
+![Record Customer Information](https://github.com/Chrix2020/ISDM-TUTE_4_Group_2/blob/master/Images/Record%20Customer%20Information%201.jpg)
+
 #### Record Sales Transaction:
 
 ![Record Sales Transaction System](https://github.com/Chrix2020/ISDM-TUTE_4_Group_2/blob/master/Images/BPMN%20Record%20Sales%20Transaction%201.jpg)
