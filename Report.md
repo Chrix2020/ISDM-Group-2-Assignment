@@ -190,8 +190,9 @@ As such, there are limitations with their current business process model. For ex
 
 
 ### Ideation
-* The new system will include a dashboard to monitor and display customer impending calls. It’s functionalities include the ability to queue calls and end a customer call. Each relationship Manager can view a customers impending call and can issue the assigned customers profile to enquire what subsequent problems they’ve encountered.
-* Secondary hardware and software will also be included in order to record sales transactions and individualised customer books for relationship managers to keep customer information when requesting for enquiries.
+* The new system will include a dashboard to monitor and display customer impending calls. It’s functionalities include the ability to queue calls and end a customer call. Each relationship Manager can view a customers impending call and can issue the assigned customers profile to enquire what subsequent problems they’ve encountered. Also notifies customers with verification of successful holiday package offers to paying customers. 
+
+Secondary hardware and software will also be included in order to record sales transactions and individualised customer books for relationship managers to keep customer information when requesting for enquiries.
 
 ### User Stories and Use Cases
 
