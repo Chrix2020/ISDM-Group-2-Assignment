@@ -168,16 +168,20 @@ Therefore, from both Empathy Maps, we can see a formidible strain of concern in 
 backlog of customer calls, huge turnover times and evidently service competencies of the Relationship Manager to sustain and eliminate any problems regarding to their customers.
 
 ### Relationship Manager HMW Statements
-* How might we improve the continuous stream of customer calls serviced, with the potential to increase sales of holiday packages for other buyers?
+* How might we improve the continuous stream of custoemr calls serviced, with the potential to increase sales of holiday packages for other buyers?
 * How might we effectively train Relationship Managers to maximze customer retention and improve customer service at a low cost to overall increase sales?
 * How might we improve the ability for Relationship Managers to track impending calls issued by end-customers?
 * How might we allow Relationship Managers to market holiday packages to attract other potential buyers as a way to maximise sales?
 
 ### Customer HMW Statements
-* How might we improve the continuous stream of customer calls serviced, with the potential to increase sales of holiday packages for other buyers?
-* How might we effectively train relationship managers to maximize customer retention and improve customer service at a low cost to overall increase sales?
-* How might we improve the ability for Relationship Managers to track impending calls issued by end-customers?
-* How might we allow Relationship Managers to market holiday packages to attract other potential buyers as a way to maximize sales?
+* How might we inform customers that their call and ticket has been marked as resolved?
+* How might we determine if a customer's impending call or submission of a ticket has been received by the relationship manager in order to maximize customer satisfaction?
+* How might we ensure that customers are assigned to a reliable and trustworthy relationship manager who is well informed and accommodating travel information based on their choice of travel destination? 
+* How might we alert customers if a select holiday package of their choice is available for offering or not?
+* How might we survey customers on their opinions of the system in order to improve the overall user experience?
+* How might we prevent customers from deterring when making a purchasing decision?
+* How might we market other potential holiday packages for potential customers to be fond with a vast selection of offerings?
+
 
 
 ### Assumption Reflection
@@ -245,6 +249,237 @@ Secondary hardware and software will also be included in order to record sales t
 
 ![RM Profiling and matching tool](https://github.com/Chrix2020/ISDM-TUTE_4_Group_2/blob/master/Images/Rm%20Tool%20use%20case.jpg?raw=true)
 
+### Product/Sprint Backlog
+
+<table style="width: 100%">
+<tbody>
+<tr>
+<td>
+<p><strong>Product Backlog Item</strong></p>
+</td>
+<td>
+<p><strong>Sprint Tasks</strong></p>
+</td>
+<td>
+<p><strong>Status</strong></p>
+</td>
+</tr>
+<tr>
+<td rowspan="4">
+<p>US001</p>
+</td>
+<td>
+<p>Code Front End</p>
+</td>
+<td>
+<p>Completed</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Code Back End</p>
+</td>
+<td>
+<p>Completed</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Testing</p>
+</td>
+<td>
+<p>Completed</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Implementation</p>
+</td>
+<td>
+<p>Completed</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3">
+<p>US002</p>
+</td>
+<td>
+<p>Setup Call Queue System</p>
+</td>
+<td>
+<p>Completed</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Redirect to VOIP</p>
+</td>
+<td>
+<p>Completed</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Connect Voice to System</p>
+</td>
+<td>
+<p>Completed</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3">
+<p>US003</p>
+</td>
+<td>
+<p>Code Sorting Function of Customer Database to Filter Profiles</p>
+</td>
+<td>
+<p>Completed</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Testing</p>
+</td>
+<td>
+<p>Completed</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Implementation</p>
+</td>
+<td>
+<p>Completed</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3">
+<p>US004</p>
+</td>
+<td>
+<p>Code Profiler Tool &ndash; matching algorithm</p>
+</td>
+<td>
+<p>Competed</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Testing</p>
+</td>
+<td>
+<p>Completed</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Implementation</p>
+</td>
+<td>
+<p>Completed</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4">
+<p>US005</p>
+</td>
+<td>
+<p>Code Front End</p>
+</td>
+<td>
+<p>Completed</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Code Back End</p>
+</td>
+<td>
+<p>Completed</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Testing</p>
+</td>
+<td>
+<p>Completed</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Implementation</p>
+</td>
+<td>
+<p>Completed</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3">
+<p>US006</p>
+</td>
+<td>
+<p>Code Sorting Function of Customer Database to Filter Profiles</p>
+</td>
+<td>
+<p>Completed</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Testing</p>
+</td>
+<td>
+<p>Completed</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Implementation</p>
+</td>
+<td>
+<p>Completed</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4">
+<p>US007</p>
+</td>
+<td>
+<p>Code Front End</p>
+</td>
+<td>
+<p>Completed</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Code Back End</p>
+</td>
+<td>
+<p>Completed</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Testing</p>
+</td>
+<td>
+<p>Completed</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Implementation</p>
+</td>
+<td>
+<p>Completed</p>
+</td>
+</tr>
+</tbody>
+</table>
+
 ### Activity Diagrams (BPMN)
 
 #### Issue Calls for Relationship Manager:
@@ -277,7 +512,7 @@ Since the system is primarily human centric, this gives an advantage to other ma
 If the project was to fail, existing customers with appreciation to the company may be impacted during the trialling and implementation phase. Customers utilising the new and functioning traditional and holistic system may not have a form of familiarity and have a likelihood to deter away from the new operations for instance, a streamlined dashboard to record sales transaction and track confirmed purchases from a customers preference of travel packages and choice of destination can deter customers away from their purchasing decisions, hence perceiving an inept reputation for the business like TravelMate to improve its system.
 
 #### Adaptability to new Business Operations-
-With the premise to improve the overall user call experience and automate the overall tailored quality service to sell travel packages by Relationship Managers, if the system was implemented during normal business hours with necessary trialling and testing phases would result in a detrimental impact to the overall operational feasibility of the system. With proven limitations of the existing model depicted by the uncertainty of customers requesting enquiries for each call issued and the existing collection of systems becoming inefficient with the workload for each Relationship Manager executing the business process into one mainstreamed system, reverting back to the old and analogue systems can perceive an inept reputation and deter potential and existing end customers away from the holistic application and their purchasing decisions causing confusion on both staff and customer how the travel company is supposed to run. Consequently leading to discrete knowledge and without the necessary training could result in understaffing and low levels of retention impacting overall day to day operations. 
+With the premise to improve the overall customer quality service and the automation of the travel companies minimalistic operations in expanding the volume of end-customers with suitable RMs, if the system was implemented during normal business hours with necessary trialling and testing phases would result a detrimental impact to the overall operational feasibility of the system. In addition to the extensive list of problems pinpointed within the current existing model, depicted by the poor relative performance of RMs with restrict product knowledge and the variation of travel package offerings, reverting back to the old and analogue operations can perceive a bad influence for both staff and customers on how the major travel company is supposed to run. Consequently, generating confusion on how the travel company adapts to the refined traditional system. Therefore, without the necessary training for employees and staff can result with discrete knowledge of the new system, deterring customers away from their purchasing decisions resulting in understaffing and low customer retention impacting overall day to day operations causing a backlog in calls, turnover times and generate sales for each successful purchase.
 
 #### Low Customer Retention-
 If the project tends to fail, customers may deter away from the travel company and seek alternative markets to bargain and assist with their travelling needs. In instances where customers are offered a variety of proposed travel products with a selection of their optimal package, but the price of the travel package is not suitable to their expectations, hence customers may defer to other potential travel companies resulting in lower customer retention and a competitive edge with other telemarketing channels. As a result, existing customers may refer to other suitable travel agents in accommodating additional travel information and discounts in addition to other successful candidates throughout word of mouth promotion to popular chosen travel packages and destination choices. Consequently, perceiving a bad influence on how TravelMate’s objectives are supposed to run causing a steep in sales and lowering overall customer retention and satisfaction. As a result, customers may tend to deter away from their purchasing decisions with restrict knowledge, adapting to the new system environment
