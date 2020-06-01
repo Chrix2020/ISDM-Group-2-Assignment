@@ -216,7 +216,6 @@ backlog of customer calls, huge turnover times and evidently service competencie
 
 ![Record Sales Transaction System](https://github.com/Chrix2020/ISDM-TUTE_4_Group_2/blob/master/Images/Record%20Sales%20Transaction%205.png)
 
-
 ## **3. Competitive Advantages and Possible Effects if project fails**
 
 ### If the Project succeeds:
