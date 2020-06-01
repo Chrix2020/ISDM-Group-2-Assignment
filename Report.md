@@ -191,44 +191,44 @@ Secondary hardware and software will also be included in order to record sales t
 
 <table style="width: 100%">
  <tr>
+  <th>ID</th>
   <th>User Story</th>
   <th>Priority (1=Highest)</th>
-  <th>ID</th>
  </tr>
  <tr>
+  <td>US001</td>
   <td>As a <strong>customer</strong> I want to connect with a knowledgeable relationship manager so that I can get the best possible           service tailored to my travel preferences.</td>
   <td>3</td>
-  <td>US001</td>
  </tr>
  <tr>
+  <td>US002</td>
   <td>As a <strong>customer</strong> I want to be placed in a queue during busy times rather than having the call automatically hang up       so that I can join a call with a relationship manager as soon as possible.</td>
   <td>7</td>
-  <td>US002</td>
  </tr>
  <tr>
+  <td>US003</td>
   <td>As a <strong>relationship manager</strong> I want to have customers segmented into social and cultural segments according to their       postcodes and surnames so that I know how to best tailor the conversation to the customer.</td>
   <td>2</td>
-  <td>US003</td>
  </tr>
  <tr>
+  <td>US004</td>
   <td>As a <strong>relationship manager</strong> I want be matched with a customer that fits my knowledge and skills through the               profiler tool so that can have the highest chance of selling as many products as possible.</td>
   <td>1</td>
-  <td>US004</td>
  </tr>
  <tr>
+  <td>US005</td>
   <td>As a <strong>relationship manager</strong> I want to have my knowledge and skills evaluated and logged in my profile so that I can       be matched properly.</td>
   <td>4</td>
-  <td>US005</td>
  </tr>
  <tr>
+  <td>US006</td>
   <td>As a <strong>relationship manager</strong> I want to be able to target repeat buyers so that I am able to efficiently sell               products.</td>
   <td>5</td>
-  <td>US006</td>
  </tr>
  <tr>
+  <td>US007</td>
   <td>As a <strong>relationship manager</strong> I want to be able to see a customer's score of how likely they are to purchase and some       basic details so that I can more effectively convince them to purchase a product.</td>
   <td>6</td>
-  <td>US007</td>
  </tr>
 </table>
 
