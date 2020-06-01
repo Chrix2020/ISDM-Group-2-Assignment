@@ -480,6 +480,10 @@ Secondary hardware and software will also be included in order to record sales t
 </tbody>
 </table>
 
+#### Sprint Backlog
+
+Throughout analysing the deficiencies of the proven existing model, the Sprint Backlog was moulded to document the effective project plans and implementation of each product deliverable for the development team. By using the Sprint Backlog as a major instrument in the Agile Approach using SCRUM can calculate the success and probability for deployment of the new and improved traditional system. Thus with the effective planning of progress, implementation and completion of all tasks allows both software and hardware to interact and maintain the feasibility of the new and holistic system.
+
 ### Activity Diagrams (BPMN)
 
 #### Issue Calls for Relationship Manager:
