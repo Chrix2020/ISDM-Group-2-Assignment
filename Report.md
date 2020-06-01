@@ -240,18 +240,21 @@ As such, there are limitations with their current business process model. For ex
 
 
  
-![Customer Profiling and matching Tool](https://github.com/Chrix2020/ISDM-TUTE_4_Group_2/blob/Respo-With-Image-Folder/Images/Customer%20Tool%20Use%20Case.jpg)
+![Customer Profiling and matching Tool](https://github.com/Chrix2020/ISDM-TUTE_4_Group_2/blob/master/Images/Customer%20Tool%20Use%20Case.jpg?raw=true)
 
-![RM Profiling and matching tool](https://github.com/Chrix2020/ISDM-TUTE_4_Group_2/blob/Respo-With-Image-Folder/Images/Rm%20Tool%20use%20case.jpg)
+![RM Profiling and matching tool](https://github.com/Chrix2020/ISDM-TUTE_4_Group_2/blob/master/Images/Rm%20Tool%20use%20case.jpg?raw=true)
 
 ### Activity Diagrams (BPMN)
 
+#### Issue Calls for Relationship Manager:
+![Issue Calls for RM](https://github.com/Chrix2020/ISDM-TUTE_4_Group_2/blob/master/Images/Request%20Call%20for%20Relationship%20Manager.jpg?raw=true)
+
 #### Record Customer Information:
-![Record Customer Information](https://github.com/Chrix2020/ISDM-TUTE_4_Group_2/blob/master/Images/Record%20Customer%20Information%201.jpg)
+![Record Customer Information](https://github.com/Chrix2020/ISDM-TUTE_4_Group_2/blob/master/Images/Record%20Customer%20Information%201.jpg?raw=true)
 
 #### Record Sales Transaction:
 
-![Record Sales Transaction System](https://github.com/Chrix2020/ISDM-TUTE_4_Group_2/blob/master/Images/BPMN%20Record%20Sales%20Transaction%201.jpg)
+![Record Sales Transaction System](https://github.com/Chrix2020/ISDM-TUTE_4_Group_2/blob/master/Images/BPMN%20Record%20Sales%20Transaction%201.jpg?raw=true)
 
 ## **3. Competitive Advantages and Possible Effects if project fails**
 
