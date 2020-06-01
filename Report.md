@@ -240,6 +240,10 @@ Secondary hardware and software will also be included in order to record sales t
 
 ### Activity Diagrams (BPMN)
 
+#### Issue Calls for Relationship Manager:
+
+![Issue Calls for Relationship Manager](https://github.com/Chrix2020/ISDM-TUTE_4_Group_2/blob/master/Images/Request%20Call%20for%20Relationship%20Manager.jpg)
+
 #### Record Customer Information:
 ![Record Customer Information](https://github.com/Chrix2020/ISDM-TUTE_4_Group_2/blob/master/Images/Record%20Customer%20Information%201.jpg)
 
