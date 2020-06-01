@@ -173,6 +173,13 @@ backlog of customer calls, huge turnover times and evidently service competencie
 * How might we improve the ability for Relationship Managers to track impending calls issued by end-customers?
 * How might we allow Relationship Managers to market holiday packages to attract other potential buyers as a way to maximise sales?
 
+### Customer HMW Statements
+* How might we improve the continuous stream of customer calls serviced, with the potential to increase sales of holiday packages for other buyers?
+* How might we effectively train relationship managers to maximize customer retention and improve customer service at a low cost to overall increase sales?
+* How might we improve the ability for Relationship Managers to track impending calls issued by end-customers?
+* How might we allow Relationship Managers to market holiday packages to attract other potential buyers as a way to maximize sales?
+
+
 ### Assumption Reflection
 
 
