@@ -245,6 +245,235 @@ Secondary hardware and software will also be included in order to record sales t
 
 ![RM Profiling and matching tool](https://github.com/Chrix2020/ISDM-TUTE_4_Group_2/blob/master/Images/Rm%20Tool%20use%20case.jpg?raw=true)
 
+<table width="831">
+<tbody>
+<tr>
+<td>
+<p><strong>Product Backlog Item</strong></p>
+</td>
+<td>
+<p><strong>Sprint Tasks</strong></p>
+</td>
+<td>
+<p><strong>Status</strong></p>
+</td>
+</tr>
+<tr>
+<td rowspan="4">
+<p>US001</p>
+</td>
+<td>
+<p>Code Front End</p>
+</td>
+<td>
+<p>Completed</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Code Back End</p>
+</td>
+<td>
+<p>Completed</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Testing</p>
+</td>
+<td>
+<p>Completed</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Implementation</p>
+</td>
+<td>
+<p>Completed</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3">
+<p>US002</p>
+</td>
+<td>
+<p>Setup Call Queue System</p>
+</td>
+<td>
+<p>Completed</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Redirect to VOIP</p>
+</td>
+<td>
+<p>Completed</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Connect Voice to System</p>
+</td>
+<td>
+<p>Completed</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3">
+<p>US003</p>
+</td>
+<td>
+<p>Code Sorting Function of Customer Database to Filter Profiles</p>
+</td>
+<td>
+<p>Completed</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Testing</p>
+</td>
+<td>
+<p>Completed</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Implementation</p>
+</td>
+<td>
+<p>Completed</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3">
+<p>US004</p>
+</td>
+<td>
+<p>Code Profiler Tool &ndash; matching algorithm</p>
+</td>
+<td>
+<p>Competed</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Testing</p>
+</td>
+<td>
+<p>Completed</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Implementation</p>
+</td>
+<td>
+<p>Completed</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4">
+<p>US005</p>
+</td>
+<td>
+<p>Code Front End</p>
+</td>
+<td>
+<p>Completed</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Code Back End</p>
+</td>
+<td>
+<p>Completed</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Testing</p>
+</td>
+<td>
+<p>Completed</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Implementation</p>
+</td>
+<td>
+<p>Completed</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3">
+<p>US006</p>
+</td>
+<td>
+<p>Code Sorting Function of Customer Database to Filter Profiles</p>
+</td>
+<td>
+<p>Completed</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Testing</p>
+</td>
+<td>
+<p>Completed</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Implementation</p>
+</td>
+<td>
+<p>Completed</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4">
+<p>US007</p>
+</td>
+<td>
+<p>Code Front End</p>
+</td>
+<td>
+<p>Completed</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Code Back End</p>
+</td>
+<td>
+<p>Completed</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Testing</p>
+</td>
+<td>
+<p>Completed</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Implementation</p>
+</td>
+<td>
+<p>Completed</p>
+</td>
+</tr>
+</tbody>
+</table>
+
 ### Activity Diagrams (BPMN)
 
 #### Issue Calls for Relationship Manager:
