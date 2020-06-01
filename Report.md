@@ -198,7 +198,7 @@ As such, there are limitations with their current business process model. For ex
 
 Secondary hardware and software will also be included in order to record sales transactions and individualised customer books for relationship managers to keep customer information when requesting for enquiries.
 
-## **3. Agile Methodology, Workproducts and Prototype**
+## **3. Agile Methodology, Workproducts and Prototyping**
 
 ### User Stories and Use Cases
 
@@ -252,7 +252,7 @@ Secondary hardware and software will also be included in order to record sales t
 ![RM Profiling and matching tool](https://github.com/Chrix2020/ISDM-TUTE_4_Group_2/blob/master/Images/Rm%20Tool%20use%20case.jpg?raw=true)
 
 ### Product/Sprint Backlog
-#### *Sprint Backlog
+#### *Sprint Backlog*
 
 Throughout analysing the deficiencies of the proven existing model, the Sprint Backlog was moulded to document the effective project plans and implementation of each product deliverable for the development team. By using the Sprint Backlog as a major instrument in the Agile Approach through SCRUM, it can maximise the success and probability for deployment of the new and improved information system. Thus with the effective planning of progress, implementation and completion of all tasks allows both software and hardware to interact and maintain the feasibility of the new and holistic system.
 
