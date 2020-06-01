@@ -181,11 +181,17 @@ backlog of customer calls, huge turnover times and evidently service competencie
 
 
 ### Assumption Reflection
+An assumption was made to assume that the current business process model is proving to be inefficient. Due to the limitations of the original requirements elicitation in conversation with the travel agency, TravelMate, an assumption of their implemented business process model is rather traditional and analogue, which therefore involves using a collection of systems, instead of one holistic and feature-rich system. These separate systems that would work as part of the process model are assumed to be:
+* An individualised customer contact book for each relationship manager to record their clients, either paperback or in a Microsoft Excel spreadsheet.
+* A sales transaction processing system to process holiday package purchases made by customers using direct bank transfer.
+* An email outbound system to send email confirmations of holiday package purchases to paying customers.
+
+As such, there are limitations with their current business process model. For example, the process of customers phoning in without certainty of being answered, as there is no call queue system in place, thus losing sales opportunities to the business. Furthermore, the systems used in the business process model are disconnected, as the Relationship Managers need to engage with each system individually to execute the business process sequentially. This presents a handicap to the workflow of Relationship Managers as this is rather inefficient compared to having a single automated system that encompasses all separate systems into one holistic application.
 
 
 ### Ideation
-The new system will include a dashboard to monitor and display customer impending calls. It’s functionalities include the ability to queue calls and end a customer call. Each relationship Manager can view a customers impending call and can issue the assigned customers profile to enquire what subsequent problems they’ve encountered.
-Secondary hardware and software will also be included in order to record sales transactions and individualised customer books for relationship managers to keep customer information when requesting for enquiries.
+* The new system will include a dashboard to monitor and display customer impending calls. It’s functionalities include the ability to queue calls and end a customer call. Each relationship Manager can view a customers impending call and can issue the assigned customers profile to enquire what subsequent problems they’ve encountered.
+* Secondary hardware and software will also be included in order to record sales transactions and individualised customer books for relationship managers to keep customer information when requesting for enquiries.
 
 ### User Stories and Use Cases
 
@@ -239,10 +245,6 @@ Secondary hardware and software will also be included in order to record sales t
 ![RM Profiling and matching tool](https://github.com/Chrix2020/ISDM-TUTE_4_Group_2/blob/Respo-With-Image-Folder/Images/Rm%20Tool%20use%20case.jpg)
 
 ### Activity Diagrams (BPMN)
-
-#### Issue Calls for Relationship Manager:
-
-![Issue Calls for Relationship Manager](https://github.com/Chrix2020/ISDM-TUTE_4_Group_2/blob/master/Images/Request%20Call%20for%20Relationship%20Manager.jpg)
 
 #### Record Customer Information:
 ![Record Customer Information](https://github.com/Chrix2020/ISDM-TUTE_4_Group_2/blob/master/Images/Record%20Customer%20Information%201.jpg)
