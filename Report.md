@@ -210,6 +210,9 @@ backlog of customer calls, huge turnover times and evidently service competencie
 
 ![RM Profiling and matching tool](https://github.com/Chrix2020/ISDM-TUTE_4_Group_2/blob/Respo-With-Image-Folder/Images/Rm%20Tool%20use%20case.jpg)
 
+### Activity Diagrams (BPMN)
+
+#### Record Sales Transaction
 
 ## **3. Competitive Advantages and Possible Effects if project fails**
 
