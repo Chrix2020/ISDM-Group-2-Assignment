@@ -245,7 +245,7 @@ Secondary hardware and software will also be included in order to record sales t
 
 ![RM Profiling and matching tool](https://github.com/Chrix2020/ISDM-TUTE_4_Group_2/blob/master/Images/Rm%20Tool%20use%20case.jpg?raw=true)
 
-<table width="831">
+<table style="width: 100%">
 <tbody>
 <tr>
 <td>
