@@ -212,7 +212,9 @@ backlog of customer calls, huge turnover times and evidently service competencie
 
 ### Activity Diagrams (BPMN)
 
-#### Record Sales Transaction
+#### Record Sales Transaction:
+
+![Recording Sales Transaction after Customer makes successful purchase](https://github.com/Chrix2020/ISDM-TUTE_4_Group_2/blob/Respo-With-Image-Folder/Images/Record%Sales%Transaction%0Case.jpg)
 
 ## **3. Competitive Advantages and Possible Effects if project fails**
 
