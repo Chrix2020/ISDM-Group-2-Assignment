@@ -214,9 +214,8 @@ backlog of customer calls, huge turnover times and evidently service competencie
 
 #### Record Sales Transaction:
 
-<p align="center">
- 
-<img src="C:\Users\Christofer Caboverde\Pictures\Record Sales Transaction.png" alt="Sales Transaction BPMN">
+![Record Sales Transaction System](https://github.com/Chrix2020/ISDM-TUTE_4_Group_2/blob/master/Images/Record%20Sales%20Transaction.jpg)
+
 
 ## **3. Competitive Advantages and Possible Effects if project fails**
 
