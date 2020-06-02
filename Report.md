@@ -497,7 +497,7 @@ Throughout analysing the deficiencies of the proven existing model, the Sprint B
 ### BPMN Diagrams (Zoom in for a better preview)
 
 #### Assigning Customers to Relationship Managers:
-![RMs to customers](https://github.com/Chrix2020/ISDM-TUTE_4_Group_2/blob/master/Images/Assign%20Relationship%20Managers%20to%20Customers.png?raw=true)
+![RMs to customers](https://github.com/Chrix2020/ISDM-TUTE_4_Group_2/blob/master/Images/Assign%20Relationship%20Managers%20to%20Customers%201.png?raw=true)
 
 #### Issue Calls for Relationship Manager:
 ![Issue Calls for RM Travel Agent](https://github.com/Chrix2020/ISDM-TUTE_4_Group_2/blob/master/Images/How%20they%20respond%20to%20calls,%20Dashboard%201.png?raw=true)
