@@ -483,7 +483,7 @@ Throughout analysing the deficiencies of the proven existing model, the Sprint B
 </table>
 
 
-### Activity Diagrams (BPMN)
+### BPMN Diagrams
 
 #### Issue Calls for Relationship Manager:
 ![Issue Calls for RM](https://github.com/Chrix2020/ISDM-TUTE_4_Group_2/blob/master/Images/Request%20Call%20for%20Relationship%20Manager.jpg?raw=true)
@@ -494,6 +494,11 @@ Throughout analysing the deficiencies of the proven existing model, the Sprint B
 #### Record Sales Transaction:
 
 ![Record Sales Transaction System](https://github.com/Chrix2020/ISDM-TUTE_4_Group_2/blob/master/Images/BPMN%20Record%20Sales%20Transaction%201.jpg?raw=true)
+
+### Activity Diagrams
+
+#### How customers respond to calls:
+![Customer issues calls for purchases](https://github.com/Chrix2020/ISDM-TUTE_4_Group_2/blob/master/Images/How%20customers%20respond%20to%20calls%20Activity%20Diagram.jpg?raw=true)
 
 ## **4. Competitive Advantages and Possible Effects if project fails**
 
