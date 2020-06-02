@@ -491,7 +491,7 @@ Throughout analysing the deficiencies of the proven existing model, the Sprint B
 
 #### Record Sales Transaction:
 
-![Record Sales Transaction System](https://github.com/Chrix2020/ISDM-TUTE_4_Group_2/blob/master/Images/Record%20Sales%20Transaction%201.png?raw=true)
+![Record Sales Transaction System](https://github.com/Chrix2020/ISDM-TUTE_4_Group_2/blob/master/Images/Record%20Sales%20Transaction%202.png?raw=true)
 
 ### Activity Diagrams
 
