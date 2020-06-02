@@ -487,7 +487,7 @@ Throughout analysing the deficiencies of the proven existing model, the Sprint B
 ![Issue Calls for RM Travel Agent](https://github.com/Chrix2020/ISDM-TUTE_4_Group_2/blob/master/Images/How%20they%20respond%20to%20calls,%20Dashboard%201.png?raw=true)
 
 #### Record Customer Information:
-![Record Customer Information](https://github.com/Chrix2020/ISDM-TUTE_4_Group_2/blob/master/Images/Record%20Customer%20Information%201.jpg?raw=true)
+![Record Customer Information](https://github.com/Chrix2020/ISDM-TUTE_4_Group_2/blob/master/Images/Record%20Customer%20Information%202.png?raw=true)
 
 #### Record Sales Transaction:
 
