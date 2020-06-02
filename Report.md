@@ -519,7 +519,7 @@ Throughout analysing the deficiencies of the proven existing model, the Sprint B
 ![ClassDiagram](https://github.com/Chrix2020/ISDM-TUTE_4_Group_2/blob/master/Images/Class%20Diagram%201.JPG?raw=true)
 
 ### Collaboration Diagram
-![Collaboration Diagram](https://github.com/Chrix2020/ISDM-TUTE_4_Group_2/blob/master/Images/Collaborative%20Diagram.jpg?raw=true)
+![Collaboration Diagram](https://github.com/Chrix2020/ISDM-TUTE_4_Group_2/blob/master/Images/Collaborative%20Diagram%201.jpg?raw=true)
 
 ## **4. Competitive Advantages and Possible Effects If Project fails**
 
