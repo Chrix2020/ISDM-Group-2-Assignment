@@ -161,8 +161,7 @@ Additionally, a problem that was constrained with the Relationship Manager is th
 
 Another problem that was situated with the Relationship Manager is the exerting pressure of selling and promoting each travel package, targeting other potential buyers with assistance to the system generating a target list for outbound callers, causing the call management center with a disruption of unresponsive call turnover times and bottlenecking throughout the large volume of calls issued by the customers. In addition compromising the overall service quality issued to the customers with no apparent system that can maximize the amount of calls serviced, record sales transactions and assign approriate customers to relative RMS based on their initial customer profiles and Skill Scores impacting the overall integrity of the system, hence putting the system into a massive deadlock.
 
-Therefore, from both Empathy Maps, we can see a formidible strain of concern in addressing the customers needs with the increased
-backlog of customer calls, huge turnover times and evidently service competencies of the Relationship Manager to sustain and eliminate any problems regarding to their customers.
+Therefore, from both Empathy Maps, we can see a formidible strain of concern in addressing the customers needs with the increased backlog of customer calls, huge turnover times and evidently service competencies of the Relationship Manager to sustain and eliminate any problems regarding to their customers.
 
 ### Relationship Manager HMW Statements
 * How might we effectively train Relationship Managers to maximze customer retention and improve customer service at a low cost to overall increase sales opportunities?
@@ -177,8 +176,6 @@ backlog of customer calls, huge turnover times and evidently service competencie
 * How might we prevent customers from deterring when making a purchasing decision?
 * How might we market other potential holiday packages for potential customers to be fond with a vast selection of offerings?
 
-
-
 ### Assumption Reflection
 An assumption was made to assume that the current business process model is proving to be inefficient. Due to the limitations of the original requirements elicitation in conversation with the travel agency, TravelMate, an assumption of their implemented business process model is rather traditional and analogue, which therefore involves using a collection of systems, instead of one holistic and feature-rich system. These separate systems that would work as part of the process model are assumed to be:
 * An individualised customer contact book for each relationship manager to record their clients, either paperback or in a Microsoft Excel spreadsheet.
@@ -189,9 +186,19 @@ As such, there are limitations with their current business process model. For ex
 
 
 ### Ideation
-* The new system will include a dashboard to monitor and display customer impending calls. It’s functionalities include the ability to queue calls and end a customer call. Each relationship Manager can view a customers impending call and can issue the assigned customers profile to enquire what subsequent problems they’ve encountered. Also notifies customers with verification of successful holiday package offers to paying customers. 
-
-Secondary hardware and software will also be included in order to record sales transactions and individualised customer books for relationship managers to keep customer information when requesting for enquiries.
+The new system will be a holistic new application that will mesh the currently assumed information systems supporting TravelMate’s business process all into one, with also new further additions that can compliment the performance of Relationship Managers towards company and sales objectives. The new system will include:
+<ul>
+<li>A dashboard to monitor and display customer impending calls</li>
+<ul>
+<li>It&rsquo;s functionalities include the ability to queue calls and end a customer call.&nbsp;</li>
+<li>Each relationship Manager can view a customers impending call and can issue the assigned customers profile to enquire what subsequent problems they&rsquo;ve encountered.</li>
+</ul>
+<li>A dashboard to list the profiles of Relationship Managers on shift</li>
+<ul>
+<li>The function of this will allow the call centre floor to acknowledge the performance of these customer service agents by tracking their availability, calls serviced, sales made and comparing them against key performance indicators (KPI&rsquo;s) for the day.</li>
+</ul>
+<li>Secondary hardware and software will also be included in order to record sales transactions and individualised customer books for relationship managers to keep customer information when requesting for enquiries.</li>
+</ul>
 
 ## **3. Agile Methodology, Workproducts and Prototyping**
 
@@ -497,6 +504,13 @@ Throughout analysing the deficiencies of the proven existing model, the Sprint B
 
 #### How customers respond to calls:
 ![Customer issues calls for purchases](https://github.com/Chrix2020/ISDM-TUTE_4_Group_2/blob/master/Images/How%20customers%20respond%20to%20calls%20Activity%20Diagram.jpg?raw=true)
+
+### Class Diagram
+TO INSERT
+
+### Collaborative Diagram
+TO INSERT
+
 
 ## **4. Competitive Advantages and Possible Effects if project fails**
 
