@@ -54,10 +54,8 @@ Customers interested in purchasing a holiday package from a travel company need 
 
 ### Empathy Map:
 
- <p align="center">
-  <b>Relationship Manager Empathy Map</b>
-  
-  <p align="center">
+
+### Relationship Manager Empathy Map
 
 <table style="width: 100%">
   <tr>
@@ -111,8 +109,7 @@ Customers interested in purchasing a holiday package from a travel company need 
   </td>
 </table>
 
-<p align="center">
-  <b>Customer Empathy Map</b>
+### Customer Empathy Map
 
 <table style="width: 100%">
   <tr>
