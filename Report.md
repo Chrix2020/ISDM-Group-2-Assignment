@@ -496,6 +496,9 @@ Throughout analysing the deficiencies of the proven existing model, the Sprint B
 
 ### BPMN Diagrams (Zoom in for a better preview)
 
+#### Assigning Customers to Relationship Managers:
+![RMs to customers](https://github.com/Chrix2020/ISDM-TUTE_4_Group_2/blob/master/Images/Assign%20Relationship%20Managers%20to%20Customers.png?raw=true)
+
 #### Issue Calls for Relationship Manager:
 ![Issue Calls for RM Travel Agent](https://github.com/Chrix2020/ISDM-TUTE_4_Group_2/blob/master/Images/How%20they%20respond%20to%20calls,%20Dashboard%201.png?raw=true)
 
@@ -506,9 +509,9 @@ Throughout analysing the deficiencies of the proven existing model, the Sprint B
 
 ![Record Sales Transaction System](https://github.com/Chrix2020/ISDM-TUTE_4_Group_2/blob/master/Images/Record%20Sales%20Transaction%202.png?raw=true)
 
-### Activity Diagrams
+### Activity Diagram
 
-#### How customers respond to calls:
+#### How customers respond to calls and perform purchase:
 ![Customer issues calls for purchases](https://github.com/Chrix2020/ISDM-TUTE_4_Group_2/blob/master/Images/How%20customers%20respond%20to%20calls%20Activity%20Diagram.jpg?raw=true)
 
 ### Class Diagram
