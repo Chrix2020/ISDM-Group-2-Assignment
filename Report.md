@@ -38,7 +38,7 @@ Due to the complexity of the travel companies operations, there are a variety of
 
 
 ### Assumptions
-1. Their existing process model is currently proving to be inefficient, where their extensive list of varying holiday package offerings is exerting more pressure on making sales, having a compromise towards the quality service provided by RMs, as well as overall customer service. With limited or restrictive product knowledge equipped by Relationship Managers in addition, this results in poor customer experience with lack of personalised servicing, call backlogs, long call turnovers, low customer retention and lower sales.
+1. Their existing business model is currently proving to be inefficient, where their extensive list of varying holiday package offerings is exerting more pressure on making sales, having a compromise towards the quality service provided by RMs, as well as overall customer service. With limited or restrictive product knowledge equipped by Relationship Managers in addition, this results in poor customer experience with lack of personalised servicing, call backlogs, long call turnovers, low customer retention and lower sales.
 
 
 ### POV Statements
