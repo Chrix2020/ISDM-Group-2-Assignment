@@ -44,11 +44,11 @@ Due to the complexity of the travel companies operations, there are a variety of
 ### POV Statements
 **Relationship Manager POV Statement**
 
-Relationship Managers within the Call Management Centre for TravelMate need a new re-invented business process system established to maximise the amount of customer calls serviced, improve customer service and increase sales potential of holiday packages, because evidence of low performance from RMs, customer dissatisfaction and low sales have shown to be a costly business process with no return.
+Relationship Managers within the Call Management Centre for TravelMate need a new re-invented business process system established to maximise the amount of customer calls serviced, improve customer service and increase sales potential of holiday packages, because evidence of low performance from RMs, customer dissatisfaction and low sales have shown to be a costly bsuienss process with no return.
 
 **Customer POV Statement**
 
-Customers interested in purchasing a holiday package from a travel company need a fast and streamlined process that allows them to enquire available holiday package offerings that suit their travelling wishes from knowledgeable travel agents, because any slight inconvenience in the process, whether be service quality or competency of the agent, can deter customers from making a purchasing decision.
+Customers interested in purchasing a holiday package from a travel company need a fast and streamlined process that allows them to enquire available holiday package offerings that suit their travelling wishes from knowledgeable travel agents, because any slight inconvenience in the process, whether be service quality or competency of the agennt, can deter customers from making a purchasing decision.
 
 ## **2. Design Thinking Approach with Artefacts**
 
@@ -189,9 +189,23 @@ As such, there are limitations with their current business process model. For ex
 
 
 ### Ideation
-* The new system will include a dashboard to monitor and display customer impending calls. It’s functionalities include the ability to queue calls and end a customer call. Each relationship Manager can view a customers impending call and can issue the assigned customers profile to enquire what subsequent problems they’ve encountered. Also notifies customers with verification of successful holiday package offers to paying customers. 
-
-Secondary hardware and software will also be included in order to record sales transactions and individualised customer books for relationship managers to keep customer information when requesting for enquiries.
+<ul>
+<li>
+<p>The new system will be a holistic new application that will mesh the currently assumed information systems supporting TravelMate&rsquo;s business process all into one, with also new further additions that can compliment the performance of Relationship Managers towards company and sales objectives. The new system will include:</p>
+<ul>
+<li>A dashboard to monitor and display customer impending calls</li>
+<ul>
+<li>It&rsquo;s functionalities include the ability to queue calls and end a customer call.&nbsp;</li>
+<li>Each relationship Manager can view a customers impending call and can issue the assigned customers profile to enquire what subsequent problems they&rsquo;ve encountered.</li>
+</ul>
+<li>A dashboard to list the profiles of Relationship Managers on shift</li>
+<ul>
+<li>The function of this will allow the call centre floor to acknowledge the performance of these customer service agents by tracking their availability, calls serviced, sales made and comparing them against key performance indicators (KPI&rsquo;s) for the day.</li>
+</ul>
+<li>Secondary hardware and software will also be included in order to record sales transactions and individualised customer books for relationship managers to keep customer information when requesting for enquiries.</li>
+</ul>
+</li>
+</ul>
 
 ## **3. Agile Methodology, Workproducts and Prototyping**
 
@@ -240,8 +254,6 @@ Secondary hardware and software will also be included in order to record sales t
  </tr>
 </table>
 
-
- 
 ![Customer Profiling and matching Tool](https://github.com/Chrix2020/ISDM-TUTE_4_Group_2/blob/master/Images/Customer%20Tool%20Use%20Case.jpg?raw=true)
 
 ![RM Profiling and matching tool](https://github.com/Chrix2020/ISDM-TUTE_4_Group_2/blob/master/Images/Rm%20Tool%20use%20case.jpg?raw=true)
@@ -498,7 +510,12 @@ Throughout analysing the deficiencies of the proven existing model, the Sprint B
 #### How customers respond to calls:
 ![Customer issues calls for purchases](https://github.com/Chrix2020/ISDM-TUTE_4_Group_2/blob/master/Images/How%20customers%20respond%20to%20calls%20Activity%20Diagram.jpg?raw=true)
 
-## **4. Competitive Advantages and Possible Effects if project fails**
+### Class Diagram
+![ClassDiagram](https://github.com/Chrix2020/ISDM-TUTE_4_Group_2/blob/master/Images/CLASS%20DIAGRAM.jpeg?raw=true)
+
+### Collaboration Diagram
+
+## **4. Competitive Advantages and Possible Effects If Project fails**
 
 ### If the Project succeeds:
 
