@@ -514,6 +514,7 @@ Throughout analysing the deficiencies of the proven existing model, the Sprint B
 ![ClassDiagram](https://github.com/Chrix2020/ISDM-TUTE_4_Group_2/blob/master/Images/CLASS%20DIAGRAM.jpeg?raw=true)
 
 ### Collaboration Diagram
+![Collaboration Diagram](https://github.com/Chrix2020/ISDM-TUTE_4_Group_2/blob/master/Images/COLLABORATIVE.jpeg?raw=true)
 
 ## **4. Competitive Advantages and Possible Effects If Project fails**
 
@@ -526,8 +527,6 @@ In comparison with other travel companies, TravelMate has offered a better compe
 #### Word of Mouth Promotion-
 Since the system is primarily human centric, this gives an advantage to other major travel companies a unique approach to assist customers with their travelling needs. Unlike other major travel companies in comparison to TravelMate, customers utilise word of mouth promotion to express a new and holistic approach for travel enquries, inviting potential customers at the norm using a variety of telemarketing methods including online advertising, social media to exhibit the new and refined approach of a customers variety of travel package offerings for their travels. In addition, customers may impose a rating for their assigned Relationship Manager as a convention to share their experiences throughout their services with their travel agent, allowing existing customers utilise other telemarketing strategies in reducing costs to market.
  
-
-
 
 ### If the project fails:
 
