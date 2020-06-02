@@ -161,7 +161,8 @@ Additionally, a problem that was constrained with the Relationship Manager is th
 
 Another problem that was situated with the Relationship Manager is the exerting pressure of selling and promoting each travel package, targeting other potential buyers with assistance to the system generating a target list for outbound callers, causing the call management center with a disruption of unresponsive call turnover times and bottlenecking throughout the large volume of calls issued by the customers. In addition compromising the overall service quality issued to the customers with no apparent system that can maximize the amount of calls serviced, record sales transactions and assign approriate customers to relative RMS based on their initial customer profiles and Skill Scores impacting the overall integrity of the system, hence putting the system into a massive deadlock.
 
-Therefore, from both Empathy Maps, we can see a formidible strain of concern in addressing the customers needs with the increased backlog of customer calls, huge turnover times and evidently service competencies of the Relationship Manager to sustain and eliminate any problems regarding to their customers.
+Therefore, from both Empathy Maps, we can see a formidible strain of concern in addressing the customers needs with the increased
+backlog of customer calls, huge turnover times and evidently service competencies of the Relationship Manager to sustain and eliminate any problems regarding to their customers.
 
 ### Relationship Manager HMW Statements
 * How might we effectively train Relationship Managers to maximze customer retention and improve customer service at a low cost to overall increase sales opportunities?
@@ -176,6 +177,8 @@ Therefore, from both Empathy Maps, we can see a formidible strain of concern in 
 * How might we prevent customers from deterring when making a purchasing decision?
 * How might we market other potential holiday packages for potential customers to be fond with a vast selection of offerings?
 
+
+
 ### Assumption Reflection
 An assumption was made to assume that the current business process model is proving to be inefficient. Due to the limitations of the original requirements elicitation in conversation with the travel agency, TravelMate, an assumption of their implemented business process model is rather traditional and analogue, which therefore involves using a collection of systems, instead of one holistic and feature-rich system. These separate systems that would work as part of the process model are assumed to be:
 * An individualised customer contact book for each relationship manager to record their clients, either paperback or in a Microsoft Excel spreadsheet.
@@ -186,19 +189,9 @@ As such, there are limitations with their current business process model. For ex
 
 
 ### Ideation
-The new system will be a holistic new application that will mesh the currently assumed information systems supporting TravelMate’s business process all into one, with also new further additions that can compliment the performance of Relationship Managers towards company and sales objectives. The new system will include:
-<ul>
-<li>A dashboard to monitor and display customer impending calls</li>
-<ul>
-<li>It&rsquo;s functionalities include the ability to queue calls and end a customer call.&nbsp;</li>
-<li>Each relationship Manager can view a customers impending call and can issue the assigned customers profile to enquire what subsequent problems they&rsquo;ve encountered.</li>
-</ul>
-<li>A dashboard to list the profiles of Relationship Managers on shift</li>
-<ul>
-<li>The function of this will allow the call centre floor to acknowledge the performance of these customer service agents by tracking their availability, calls serviced, sales made and comparing them against key performance indicators (KPI&rsquo;s) for the day.</li>
-</ul>
-<li>Secondary hardware and software will also be included in order to record sales transactions and individualised customer books for relationship managers to keep customer information when requesting for enquiries.</li>
-</ul>
+* The new system will include a dashboard to monitor and display customer impending calls. It’s functionalities include the ability to queue calls and end a customer call. Each relationship Manager can view a customers impending call and can issue the assigned customers profile to enquire what subsequent problems they’ve encountered. Also notifies customers with verification of successful holiday package offers to paying customers. 
+
+Secondary hardware and software will also be included in order to record sales transactions and individualised customer books for relationship managers to keep customer information when requesting for enquiries.
 
 ## **3. Agile Methodology, Workproducts and Prototyping**
 
@@ -505,13 +498,6 @@ Throughout analysing the deficiencies of the proven existing model, the Sprint B
 #### How customers respond to calls:
 ![Customer issues calls for purchases](https://github.com/Chrix2020/ISDM-TUTE_4_Group_2/blob/master/Images/How%20customers%20respond%20to%20calls%20Activity%20Diagram.jpg?raw=true)
 
-### Class Diagram
-TO INSERT
-
-### Collaborative Diagram
-TO INSERT
-
-
 ## **4. Competitive Advantages and Possible Effects if project fails**
 
 ### If the Project succeeds:
@@ -529,10 +515,10 @@ Since the system is primarily human centric, this gives an advantage to other ma
 ### If the project fails:
 
 #### Loss of Customer Satisfaction- 
-If the project was to fail, existing customers with appreciation to the company may be impacted during the trialling and implementation phase. Customers utilising the new and functioning traditional and holistic system may not have a form of familiarity and have a likelihood to deter away from the new operations for instance, a streamlined dashboard to record sales transaction and track confirmed purchases from a customers preference of travel packages and choice of destination can deter customers away from their purchasing decisions, hence perceiving an inept reputation for the business like TravelMate to improve its system.
+If the project was to fail, existing and loyal customers may be impacted during the trialling and implementation phase. Customers utilising the new and functioning traditional and holistic system may not have a form of familiarity and have a likelihood to deter away from the new operations for instance, a streamlined dashboard to record sales transaction and track confirmed purchases from a customers preference of travel packages and choice of destination can deter customers away from their purchasing decisions, hence perceiving an inept reputation for the business like TravelMate to improve its system.
 
 #### Adaptability to new Business Operations-
 With the premise to improve the overall customer quality service and the automation of the travel companies minimalistic operations in expanding the volume of end-customers with suitable RMs, if the system was implemented during normal business hours with necessary trialling and testing phases would result a detrimental impact to the overall operational feasibility of the system. In addition to the extensive list of problems pinpointed within the current existing model, depicted by the poor relative performance of RMs with restrict product knowledge and the variation of travel package offerings, reverting back to the old and analogue operations can perceive a bad influence for both staff and customers on how the major travel company is supposed to run. Consequently, generating confusion on how the travel company adapts to the refined traditional system. Therefore, without the necessary training for employees and staff can result with discrete knowledge of the new system, deterring customers away from their purchasing decisions resulting in understaffing and low customer retention impacting overall day to day operations causing a backlog in calls, turnover times and generate sales for each successful purchase.
 
 #### Low Customer Retention-
-If the project tends to fail, customers may deter away from the travel company and seek alternative markets to bargain and assist with their travelling needs. In instances where customers are offered a variety of proposed travel products with a selection of their optimal package, but the price of the travel package is not suitable to their expectations, hence customers may defer to other potential travel companies resulting in lower customer retention and a competitive edge with other telemarketing channels. As a result, existing customers may refer to other suitable travel agents in accommodating additional travel information and discounts in addition to other successful candidates throughout word of mouth promotion to popular chosen travel packages and destination choices. Consequently, perceiving a bad influence on how TravelMate’s objectives are supposed to run causing a steep in sales and lowering overall customer retention and satisfaction. As a result, customers may tend to deter away from their purchasing decisions with restrict knowledge, adapting to the new system environment
+If the project was to fail, customers may deter away from the travel company and seek other alternative markets or travel agents to bargain and assist with their travelling needs. Resulting in lost business sales opportunities in addition to maximize sales. As such, customers may have a tendency to revert back to the old operations if not treated as a valuable guest impacting overall user experience. With the existing limitations of poor service competencies by the Relationship Managers can overall perceive a negative perception on how the travel company is intended to run, restricting new and existing end customers to be tailored by a variety of travel preferences causing a steep in sales and low customer retention. In addition, customers may invest in other travel purchases with additional travel information and discounts from other competitive markets from a popular choice of package offerings, putting a handicap towards TravelMate's inability to satisfy the needs for their existing customers. Therefore,
