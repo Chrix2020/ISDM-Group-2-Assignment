@@ -165,15 +165,13 @@ Therefore, from both Empathy Maps, we can see a formidible strain of concern in 
 backlog of customer calls, huge turnover times and evidently service competencies of the Relationship Manager to sustain and eliminate any problems regarding to their customers.
 
 ### Relationship Manager HMW Statements
-* How might we improve the continuous stream of custoemr calls serviced, with the potential to increase sales of holiday packages for other buyers?
-* How might we effectively train Relationship Managers to maximze customer retention and improve customer service at a low cost to overall increase sales?
+* How might we effectively train Relationship Managers to maximze customer retention and improve customer service at a low cost to overall increase sales opportunities?
 * How might we improve the ability for Relationship Managers to track impending calls issued by end-customers?
 * How might we allow Relationship Managers to market holiday packages to attract other potential buyers as a way to maximise sales?
 
 ### Customer HMW Statements
-* How might we inform customers that their call and ticket has been marked as resolved?
-* How might we determine if a customer's impending call or submission of a ticket has been received by the relationship manager in order to maximize customer satisfaction?
-* How might we ensure that customers are assigned to a reliable and trustworthy relationship manager who is well informed and accommodating travel information based on their choice of travel destination? 
+* How might we determine that a customers impending call is routed to the first available travel agent?
+* How might we improve the overall process to match customers with suitable Relationship Managers based on RM Skills and customer profiles?
 * How might we alert customers if a select holiday package of their choice is available for offering or not?
 * How might we survey customers on their opinions of the system in order to improve the overall user experience?
 * How might we prevent customers from deterring when making a purchasing decision?
