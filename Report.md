@@ -95,6 +95,7 @@ Customers interested in purchasing a holiday package from a travel company need 
 <li>Relationship Managers can provide alternative deals and discounts on other holiday packages if a customer is dissatisfied with their current one.</li>
       <li>Relationship Managers want to be able to convince customers to make a lively purchase if they are treated as a valuable customer.</li>
       <li>Relationship Managers want to be able to convince customers to make a lively purchase if customers are assigned to a well informed and knowledgeable RM.</li>
+     <li>Relationship Managers want to be able to calculate a customers possibility for purchase to ensure that their customers are receiving the recommended travel preferences and holiday information, secured and confident with their purchase offering. 
       </ul>
   </td>
   
