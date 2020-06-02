@@ -481,13 +481,13 @@ Throughout analysing the deficiencies of the proven existing model, the Sprint B
 </table>
 
 
-### BPMN Diagrams
+### BPMN Diagrams (Zoom in for a better preview)
 
 #### Issue Calls for Relationship Manager:
 ![Issue Calls for RM Travel Agent](https://github.com/Chrix2020/ISDM-TUTE_4_Group_2/blob/master/Images/How%20they%20respond%20to%20calls,%20Dashboard%201.png?raw=true)
 
 #### Record Customer Information:
-![Record Customer Information](https://github.com/Chrix2020/ISDM-TUTE_4_Group_2/blob/master/Images/Record%20Customer%20Information%202.png?raw=true)
+![Record Customer Information](https://github.com/Chrix2020/ISDM-TUTE_4_Group_2/blob/master/Images/Record%20Customer%20Information%203.png?raw=true)
 
 #### Record Sales Transaction:
 
