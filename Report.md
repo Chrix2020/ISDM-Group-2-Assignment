@@ -484,7 +484,7 @@ Throughout analysing the deficiencies of the proven existing model, the Sprint B
 ### BPMN Diagrams
 
 #### Issue Calls for Relationship Manager:
-![Issue Calls for RM](https://github.com/Chrix2020/ISDM-TUTE_4_Group_2/blob/master/Images/Request%20Call%20for%20Relationship%20Manager.jpg?raw=true)
+![Issue Calls for RM](https://github.com/Chrix2020/ISDM-TUTE_4_Group_2/blob/master/Images/How%20they%20respond%20to%20calls,%20Dashboard.jpg?raw=true)
 
 #### Record Customer Information:
 ![Record Customer Information](https://github.com/Chrix2020/ISDM-TUTE_4_Group_2/blob/master/Images/Record%20Customer%20Information%201.jpg?raw=true)
