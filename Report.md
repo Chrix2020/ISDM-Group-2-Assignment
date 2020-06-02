@@ -188,8 +188,6 @@ As such, there are limitations with their current business process model. For ex
 
 
 ### Ideation
-<ul>
-<li>
 <p>The new system will be a holistic new application that will mesh the currently assumed information systems supporting TravelMate&rsquo;s business process all into one, with also new further additions that can compliment the performance of Relationship Managers towards company and sales objectives. The new system will include:</p>
 <ul>
 <li>A dashboard to monitor and display customer impending calls</li>
@@ -202,8 +200,12 @@ As such, there are limitations with their current business process model. For ex
 <li>The function of this will allow the call centre floor to acknowledge the performance of these customer service agents by tracking their availability, calls serviced, sales made and comparing them against key performance indicators (KPI&rsquo;s) for the day.</li>
 </ul>
 <li>Secondary hardware and software will also be included in order to record sales transactions and individualised customer books for relationship managers to keep customer information when requesting for enquiries.</li>
+<ul>
+<li>A Customer Profiler Tool, to use demographics and customer information, in an algorithm to match to an appropriate Relationship Manager.</li>
+<ul>
+<li>This will allow Relationship Managers to query customers and generate target lists for potential customers of proposed holiday packages to maximise sales success.</li>
 </ul>
-</li>
+</ul>
 </ul>
 
 ## **3. Agile Methodology, Workproducts and Prototyping**
