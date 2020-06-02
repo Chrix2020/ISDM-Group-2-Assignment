@@ -538,3 +538,7 @@ With the premise to improve the overall customer quality service and the automat
 
 #### Low Customer Retention-
 If the project was to fail, customers may deter away from the travel company and seek other alternative markets or travel agents to bargain and assist with their travelling needs. As such, customers may have a tendency to revert back to the old operations if not treated as a valuable guest impacting overall call experience and relationship with the company. With the existing limitations of poor service competencies by the Relationship Managers can overall perceive a negative perception on how the travel company is intended to run, restricting new and existing end customers to be tailored with recommended travel preferences alongside their selection of travel product/s, losing major business sales opportunities. In addition, customers may invest in other purchases with additional travel information and discounts from other competitive markets from a popular choice of package offerings, putting a handicap towards TravelMate's inability to satisfy the needs for their existing customers, turning back their purchasing decisions as a result in complimenting other business performance and sales objectives, thus impacting the companies objectives to maintain personalised customer service and retaining business sales opportunities.
+
+### Video Presentation Link:
+
+INSERT HERE!!!!!!!!
