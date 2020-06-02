@@ -170,13 +170,12 @@ backlog of customer calls, huge turnover times and evidently service competencie
 * How might we allow Relationship Managers to market holiday packages to attract other potential buyers as a way to maximise sales?
 
 ### Customer HMW Statements
-* How might we determine that a customers impending call is routed to the first available travel agent?
-* How might we improve the overall process to match customers with suitable Relationship Managers based on RM Skills and customer profiles?
-* How might we alert customers if a select holiday package of their choice is available for offering or not?
-* How might we survey customers on their opinions of the system in order to improve the overall user experience?
-* How might we prevent customers from deterring when making a purchasing decision?
-* How might we market other potential holiday packages for potential customers to be fond with a vast selection of offerings?
-
+* How might we know what position in queue that the call inbounding is until it is serviced by a travel agent?
+* How might we know that the Relationship Manager is well equipped and matched to my profile to advise us on our travel plans?
+* How might we know of available travel packages being offered currently, and others on promotion?
+* How might we be able to voice our opinions of customer service quality, and of the new system in order to improve the overall user experience?
+* How might we be able to be fully confident in making a secure purchase of a travel holiday, and receive full confirmation of sales and holiday details?
+* How might we know of holiday packages that are best suited to our travel and lifestyle interests in the future?
 
 
 ### Assumption Reflection
